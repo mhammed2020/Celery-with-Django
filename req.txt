@@ -11,6 +11,7 @@ importlib-metadata==3.3.0
 kombu==5.0.2
 prompt-toolkit==3.0.8
 pytz==2020.4
+redis==3.5.3
 six==1.15.0
 sqlparse==0.4.1
 typing-extensions==3.7.4.3
